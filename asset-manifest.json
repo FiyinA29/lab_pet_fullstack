@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab_pet_fullstack/static/css/main.e6c13ad2.css",
+    "main.js": "/lab_pet_fullstack/static/js/main.0251a971.js",
+    "static/js/787.60c85e3b.chunk.js": "/lab_pet_fullstack/static/js/787.60c85e3b.chunk.js",
+    "index.html": "/lab_pet_fullstack/index.html",
+    "main.e6c13ad2.css.map": "/lab_pet_fullstack/static/css/main.e6c13ad2.css.map",
+    "main.0251a971.js.map": "/lab_pet_fullstack/static/js/main.0251a971.js.map",
+    "787.60c85e3b.chunk.js.map": "/lab_pet_fullstack/static/js/787.60c85e3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0251a971.js"
+  ]
+}
